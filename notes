@@ -1,0 +1,20 @@
+Wiki Search API app.
+22.1.17
+
+things to improve upon
+
+------------------
+UI
+------------------
+results:
+  open new tab icon
+typgraphy
+style random button
+
+------------------
+Features
+------------------
+
+"Showing results for" feature
+  if random, show "random article:"
+  clear the input
